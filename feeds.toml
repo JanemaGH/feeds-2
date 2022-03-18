@@ -1,6 +1,6 @@
 [notice]
 title = "xaufe notice"
 url = "https://www.xaufe.edu.cn/xxgg1.htm"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
+entrySelector = "#mp-dyk > ul li"
 titleSelector = "h2"
 linkSelector = "h2 a"
