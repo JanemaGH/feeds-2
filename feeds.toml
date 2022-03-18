@@ -1,6 +1,6 @@
-[notice]
-title = "xaufe notice"
-url = "https://www.xaufe.edu.cn/xxgg1.htm"
+[funfacts]
+title = "Wikipedia — did you know?"
+url = "https://en.wikipedia.org/wiki/Main_Page"
 entrySelector = "#mp-dyk > ul li"
-titleSelector = "h2"
-linkSelector = "h2 a"
+titleSelector = "b"
+linkSelector = "b a"
